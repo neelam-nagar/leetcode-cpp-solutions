@@ -39,6 +39,7 @@ Personal archive of C++ DSA solutions, built to strengthen my understanding and 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/0009-palindrome-number) |
 | [2050-count-good-numbers](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
