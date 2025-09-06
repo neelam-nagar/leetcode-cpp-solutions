@@ -8,6 +8,7 @@ Personal archive of C++ DSA solutions, built to strengthen my understanding and 
 | ------- |
 | [0001-two-sum](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0051-n-queens](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/0051-n-queens) |
 | [0217-contains-duplicate](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -55,4 +56,8 @@ Personal archive of C++ DSA solutions, built to strengthen my understanding and 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/0217-contains-duplicate) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
