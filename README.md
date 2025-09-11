@@ -11,6 +11,7 @@ Personal archive of C++ DSA solutions, built to strengthen my understanding and 
 | [0051-n-queens](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/0051-n-queens) |
 | [0217-contains-duplicate](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/0217-contains-duplicate) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ Personal archive of C++ DSA solutions, built to strengthen my understanding and 
 | [0141-linked-list-cycle](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/0217-contains-duplicate) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +69,7 @@ Personal archive of C++ DSA solutions, built to strengthen my understanding and 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
