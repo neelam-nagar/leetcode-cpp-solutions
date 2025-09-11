@@ -10,6 +10,7 @@ Personal archive of C++ DSA solutions, built to strengthen my understanding and 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0051-n-queens](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/0051-n-queens) |
 | [0217-contains-duplicate](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/0217-contains-duplicate) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +61,12 @@ Personal archive of C++ DSA solutions, built to strengthen my understanding and 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/0051-n-queens) |
+## Sliding Window
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
