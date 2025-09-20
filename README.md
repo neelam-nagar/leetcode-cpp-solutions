@@ -59,6 +59,7 @@ Personal archive of C++ DSA solutions, built to strengthen my understanding and 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
@@ -84,6 +85,7 @@ Personal archive of C++ DSA solutions, built to strengthen my understanding and 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/0020-valid-parentheses) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Counting
 |  |
