@@ -13,6 +13,7 @@ Personal archive of C++ DSA solutions, built to strengthen my understanding and 
 | [0643-maximum-average-subarray-i](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1603-running-sum-of-1d-array](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/2058-concatenation-of-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -81,6 +82,7 @@ Personal archive of C++ DSA solutions, built to strengthen my understanding and 
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1603-running-sum-of-1d-array](https://github.com/neelam-nagar/leetcode-cpp-solutions/tree/master/1603-running-sum-of-1d-array) |
 ## String
 |  |
 | ------- |
